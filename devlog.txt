@@ -1,0 +1,17 @@
+
+Game Title: Battle Bugs
+
+Auto battle game where you build bugs and build more bases to generate income, which need to be protected.
+
+Wishlist: Caterpillar / butterfly animations
+
+
+Rough unit designs
+Bull ant - Melee, tanky, strong attack, expensive
+Fire ant - ranged, cheap, deals dot damage
+Spider - Melee, tanky, wraps enemies in webs to stop them attacking
+Ladybug - Support, heals nearby units
+Catterpillar - Ranged, after killing X units turns into a ranged flying butterfly
+Aphid - Ranged, cheap, small, shoots sticky substance slowing
+Mosquito - Flying, short range channel attack, heals HP as attacks
+Doodlebug(/Antlion) - Small bug that throws sand at enemies and gives them a chance to miss debuff
