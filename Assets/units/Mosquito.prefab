@@ -45,6 +45,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a0c5f2165bce024c9ebe4c82cf9bb17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  cost: 80
+  hp: 80
+  speed: 4
+  range: 2
+  attack: 4
+  attackSpeed: 4
+  flying: 1
 --- !u!1001 &7061521116884877817
 PrefabInstance:
   m_ObjectHideFlags: 0

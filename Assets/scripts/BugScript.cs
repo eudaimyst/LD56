@@ -6,6 +6,13 @@ public class BugScript : MonoBehaviour
 {
 
 	Vector3 moveTarget;
+	public float cost;
+	public float hp;
+	public float speed;
+	public float range;
+	public float attack;
+	public float attackSpeed;
+	public bool flying;
 
 	// Start is called before the first frame update
 	void Start()
@@ -18,7 +25,7 @@ public class BugScript : MonoBehaviour
 	{
 		if (moveTarget != null)
 		{
-			transform.position = Vector3.MoveTowards(transform.position, moveTarget, 10f * Time.deltaTime);
+			transform.position = Vector3.MoveTowards(transform.position, moveTarget, speed * Time.deltaTime);
 		}
 	}
 

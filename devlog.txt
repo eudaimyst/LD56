@@ -39,10 +39,19 @@ Attack: 0
 
 Catterpillar - Ranged, after killing X units turns into a ranged flying  butterfly
 Cost: 200
+HP: 160
 Speed: 1
 Range: 3
 Attack: 60
 AttackSpeed: .5
+-------------
+Butterfly
+Cost: 0
+HP: 80
+Speed: 4
+Range: 1
+Attack: 20
+AttackSpeed: 2
 
 Aphid - Ranged, cheap, small, shoots sticky substance slowing 
 Cost: 40
@@ -77,11 +86,12 @@ Log:
 
 
 
+Next:
+Economy/resource system
 
 Todo:
 Enemy 'AI'
 Unit behaviour scripting
-Economy/resource system
 base expansions/tech upgrades(??? dont know what to do for this, per unit?)
 Implement unit stats
 Pre-game unit selection screen
