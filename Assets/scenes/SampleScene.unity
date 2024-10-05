@@ -152,7 +152,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a8b4ab379a8f1347866583f04e5e15a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bugRef: {fileID: 4568650768695321083, guid: 64c11d06d44278f4e881dd4529ebdfff, type: 3}
+  bugRef:
+  - {fileID: 6392965685907604979, guid: 921b19c9b246a614db359e8bb52de381, type: 3}
+  - {fileID: 139080762056964549, guid: 8864c3f575766ea4885a8b4ec0f9bd8a, type: 3}
+  - {fileID: 6343244196017258460, guid: 40c3ad475a477744faa00b96f0614fdb, type: 3}
+  - {fileID: 260820732054429329, guid: 8d0df8cf24bd33f469bc4e5e18e89c0b, type: 3}
+  - {fileID: 1738295442247304292, guid: a1d9a55347cd78e4e8ea4d6d488a577d, type: 3}
+  - {fileID: 8111563025749755393, guid: 71ccb3218d2988043a7c93779ab1f5a9, type: 3}
+  - {fileID: 1136014478112351784, guid: 6625fa05fe0836841949396e9f76e193, type: 3}
+  - {fileID: 5173698015783423201, guid: f3a2d29385993ed47af2edd63e0c37ac, type: 3}
   spawners:
   - {fileID: 1924112168}
   - {fileID: 770534829}
@@ -759,11 +767,11 @@ MonoBehaviour:
       - m_Target: {fileID: 154456888}
         m_TargetAssemblyTypeName: Game, Assembly-CSharp
         m_MethodName: SpawnBug
-        m_Mode: 1
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
+          m_IntArgument: 1
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -1838,11 +1846,11 @@ MonoBehaviour:
       - m_Target: {fileID: 154456888}
         m_TargetAssemblyTypeName: Game, Assembly-CSharp
         m_MethodName: SpawnBug
-        m_Mode: 1
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
+          m_IntArgument: 2
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -2016,11 +2024,11 @@ MonoBehaviour:
       - m_Target: {fileID: 154456888}
         m_TargetAssemblyTypeName: Game, Assembly-CSharp
         m_MethodName: SpawnBug
-        m_Mode: 1
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
+          m_IntArgument: 3
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -2699,7 +2707,7 @@ MonoBehaviour:
       - m_Target: {fileID: 154456888}
         m_TargetAssemblyTypeName: Game, Assembly-CSharp
         m_MethodName: SpawnBug
-        m_Mode: 1
+        m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine

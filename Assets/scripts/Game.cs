@@ -5,17 +5,17 @@ using UnityEngine;
 
 public class Game : MonoBehaviour
 {
-	public GameObject bugRef;
+	public GameObject[] bugRef;
 	public SpawnScript[] spawners;
 	private BugScript testBug;
-	private List<BugScript> testBugs = new List<BugScript>();
+	private readonly List<BugScript> testBugs = new();
 
 	private float timer;
 
 
-	public void SpawnBug()
+	public void SpawnBug(int slot)
 	{
-		testBug = Instantiate(bugRef, spawners[0].transform.position, Quaternion.identity).GetComponent<BugScript>();
+		testBug = Instantiate(bugRef[slot + 4], spawners[0].transform.position, Quaternion.identity).GetComponent<BugScript>();
 		testBug.transform.position = spawners[0].transform.position;
 		testBugs.Add(testBug);
 		testBug.SetMoveTarget(spawners[3].gameObject);

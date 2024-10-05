@@ -8,10 +8,62 @@ Wishlist: Caterpillar / butterfly animations
 
 Rough unit designs
 Bull ant - Melee, tanky, strong attack, expensive
+Cost: 80
+HP: 220
+Speed: 2
+Range: 1
+Attack: 20
+AttackSpeed: 1
+
 Fire ant - ranged, cheap, deals dot damage
-Spider - Melee, tanky, wraps enemies in webs to stop them attacking
-Ladybug - Support, heals nearby units
-Catterpillar - Ranged, after killing X units turns into a ranged flying butterfly
-Aphid - Ranged, cheap, small, shoots sticky substance slowing
-Mosquito - Flying, short range channel attack, heals HP as attacks
-Doodlebug(/Antlion) - Small bug that throws sand at enemies and gives them a chance to miss debuff
+Cost: 120
+HP: 80
+Speed: 3
+Range: 3
+Attack: 20
+AttackSpeed: 1
+
+Spider - Melee, tanky, wraps enemies in webs to stop them attacking 
+Cost: 200
+HP: 340
+Speed: 2
+Range: 1
+Attack: 20
+AttackSpeed: 1
+
+Ladybug - Support, heals nearby units 
+Cost: 200
+HP: 160
+Speed: 2
+Range: 3
+Attack: 0
+
+Catterpillar - Ranged, after killing X units turns into a ranged flying  butterfly
+Cost: 200
+Speed: 1
+Range: 3
+Attack: 60
+AttackSpeed: .5
+
+Aphid - Ranged, cheap, small, shoots sticky substance slowing 
+Cost: 40
+HP: 40
+Speed: 5
+Range: 3
+Attack: 5
+AttackSpeed: 2
+
+Mosquito - Flying, short range channel attack, heals HP as attacks 
+Cost: 80
+HP: 80
+Speed: 4
+Range: 2
+Attack: 4
+AttackSpeed: 4
+
+Doodlebug(/Antlion) - Small bug that throws sand at enemies and gives them a chance to miss debuff 
+HP: 40
+HP: 80
+Speed: 4
+Range: 4
+Attack: 0
