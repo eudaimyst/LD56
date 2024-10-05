@@ -3,7 +3,6 @@ Game Title: Battle Bugs
 
 Auto battle game where you build bugs and build more bases to generate income, which need to be protected.
 
-Wishlist: Caterpillar / butterfly animations
 
 
 Rough unit designs
@@ -67,3 +66,30 @@ HP: 80
 Speed: 4
 Range: 4
 Attack: 0
+
+
+
+
+
+Log:
+6hrs: Did not expect to be doing Ludum Dare, this weekend but here we are. Created Project in Unity and modelled units and garden beds for bases, defined unit stats and basic gameplay.
+
+
+
+
+
+Todo:
+Enemy 'AI'
+Unit behaviour scripting
+Economy/resource system
+base expansions/tech upgrades(??? dont know what to do for this, per unit?)
+Implement unit stats
+Pre-game unit selection screen
+
+
+Wishlist:
+-unit animations
+-sound/music
+-UI/graphics suitable for the game/theme
+-environment art
+-campaign/multiple levels
