@@ -82,24 +82,21 @@ Attack: 0
 
 Log:
 6hrs: Did not expect to be doing Ludum Dare, this weekend but here we are. Created Project in Unity and modelled units and garden beds for bases, defined unit stats and basic gameplay.
+23hrs: First day went okay, lost 2 hours at the end to not understand when Start is called in unity, was causing a crash... starting to work on unit behaviour scripts today
 
 
 
+Next: Enemy 'AI' / Unit behaviour scripting
 
-Next:
-Economy/resource system
 
 Todo:
-Enemy 'AI'
-Unit behaviour scripting
-base expansions/tech upgrades(??? dont know what to do for this, per unit?)
+base expansions/unit upgrades
 Implement unit stats
-Pre-game unit selection screen
+Environment art
 
 
 Wishlist:
 -unit animations
 -sound/music
 -UI/graphics suitable for the game/theme
--environment art
 -campaign/multiple levels
